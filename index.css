@@ -34,6 +34,7 @@ h4{
 }
 
 button{
+    cursor: pointer;
     background-color: #10B981;
     padding: 9px 16px;;
     border: none;
